@@ -11,7 +11,7 @@
   "references": [
     {
       "path": "../base"
-    }
+    },
   ],
   "exclude": [
     "src/test/*.ts"
